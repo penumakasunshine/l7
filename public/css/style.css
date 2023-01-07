@@ -1,4 +1,9 @@
-body {
-  backkground-color: rgb(211, 211, 211);
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+.Todo-Item:hover .trash-icon {
+  display: block;
 }
+
+body {
+  background-color: rgb(156, 221, 216);
+  font-family:Arial, Helvetica, sans-serif;
+}
+
